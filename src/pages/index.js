@@ -3,3 +3,4 @@ export { default as SearchView } from "./Search";
 export { default as SearchResultsView } from "./SearchResults";
 export { default as FavoritesView } from "./Favorites";
 export { default as LoginView } from "./Login";
+export { default as CartView } from "./Cart";

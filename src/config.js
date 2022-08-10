@@ -1,6 +1,7 @@
+const api_key = process.env.REACT_APP_X || "cea49929";
 const api = {
   url: "https://www.omdbapi.com",
-  key: "cea49929",
+  key: api_key,
 };
 
 export const authUsers = [
